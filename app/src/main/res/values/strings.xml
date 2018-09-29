@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DMoviles</string>
+    <string name="btn">Soy un boton</string>
+    <string name="title_activity_segunda_actividad">SegundaActividad</string>
+</resources>
